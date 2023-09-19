@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MauroBarbizzi
+- 👀 I’m interested in Harware
+- 🌱 I’m currently learning cybersecurity and pyhton
